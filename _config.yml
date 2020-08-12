@@ -28,17 +28,17 @@ projects:
     projects:
         # - repo-name
 
-# social_media:
+social_media:
     # behance: your_username
     # dribbble: your_username
     # facebook: your_username
-    # hackerrank: your_username
+    hackerrank: jsfcoding
     # instagram: your_username
     # keybase: your_username
     # linkedin: your_username
     # mastodon: your_username
-    # medium: your_username
-    # stackoverflow: your_user_id
+    medium: jsfcoding
+    stackoverflow: 13878949
     # telegram: your_username
     # twitter: your_username
     # unsplash: your_username
@@ -63,9 +63,25 @@ topics:
       web_url: https://github.com/topics/php
       image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/php/php.png
 
+    - name: SQL
+      web_url: https://github.com/topics/sql
+      image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
+
     - name: MySQL
       web_url: https://github.com/topics/mysql
       image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mysql/mysql.png
+
+    - name: PostgreSQL
+      web_url: https://github.com/topics/postgresql
+      image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/postgresql/postgresql.png
+
+    - name: SQLite
+      web_url: https://github.com/topics/sqlite
+      image_url: https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png
+
+    - name: Kotlin
+      web_url: https://github.com/topics/kotlin
+      image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png
 
     - name: Java
       web_url: https://github.com/topics/java
@@ -75,6 +91,18 @@ topics:
       web_url: https://github.com/topics/python
       image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
+    - name: Flask
+      web_url: https://github.com/topics/flask
+      image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/flask/flask.png
+
+    - name: Django
+      web_url: https://github.com/topics/django
+      image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/django/django.png
+
     - name: Node.js
       web_url: https://github.com/topics/nodejs
       image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/nodejs/nodejs.png
+
+    - name: Swift
+      web_url: https://github.com/topics/swift
+      image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
